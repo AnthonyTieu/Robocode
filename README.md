@@ -1,2 +1,2 @@
 # Robocode
-Fighting Robots
+While there are many robots, most are variations of "Husarii" or "Katyusha"
